@@ -1,2 +1,2 @@
 # AINotes
-a series of AI notes
+A series of AI notes
